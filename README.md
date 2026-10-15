@@ -2,7 +2,7 @@
 
 Melon Tweaks is a Windows batch utility created by siersciuch.
 
-File written by AI and checked by human.
+File written by AI as an project and checked by human.
 
 The project provides a simple menu for Windows maintenance, diagnostics, cleaning and selected system tweaks.
 
